@@ -43,9 +43,7 @@ Insights Story: 		Re-align pricing to maximise margins without sacrificing compe
 regularly benchmark against competitors to ensure pricing stretegy remains effective.									
 Hi priced with low movements products required bundling or discounting									
 Low priced with high movments products  need to anlyzing price bands, There is an opportunity to									
-adjust prices upward.									
+adjust prices upward.		
 
+Project Dashboard Screenshot:
 ![Project Dashboard](https://github.com/user-attachments/assets/fb1198a9-9e2d-44c3-8478-8f75815f1f29)
-
-
-
